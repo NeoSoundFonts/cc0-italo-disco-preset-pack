@@ -1,5 +1,7 @@
 * text=auto
 
+*.xpf text eol=lf
+
 *.sf2 binary
 *.fxp binary
 *.syx binary
